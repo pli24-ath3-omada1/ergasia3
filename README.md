@@ -5,4 +5,4 @@ to see what's going on. We'll keep in touch.
 
 In the meanwhile, if you can, edit this text file, so that we can check you have full permissions.
 Nikos St.
-# 0202-2020
+0202-2020
